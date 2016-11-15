@@ -3,3 +3,7 @@ This is a simple Chrome extension with a funny name and I gotthe inspiration of 
   The extension opens your favourite websites in diffrent tabs and you can browse them in one go.
   
 So explore the extension and keep updated.
+
+## The repository consits of all the files required to run the extension and the icon pack.
+
+#Enjoy :)
