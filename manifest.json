@@ -1,0 +1,15 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx", 
+    "name" : "Web Opener",
+    "version": "1.0",
+    "manifest_version" :2,
+    "description" : "Open your favourite links at once",
+    "browser_action" : {
+        "default icon" : "icon1.png",
+        "default_popup" : "mypopup.html"
+    },
+"permission" :[
+    "tabs",
+    "storage"
+]
+}
